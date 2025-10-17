@@ -2,6 +2,8 @@
 
 This document explains how to query unread messages from a Laravel application that has access to the Campfire SQLite database.
 
+> 💡 **Quick Start**: See [QUICK_REFERENCE.md](QUICK_REFERENCE.md) for a condensed cheat sheet of common queries.
+
 ## Database Structure Overview
 
 ### Key Tables
