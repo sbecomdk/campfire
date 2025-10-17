@@ -2,7 +2,9 @@
 
 This is a quick reference guide for querying unread messages from the Campfire SQLite database.
 
-For complete documentation, see [LARAVEL_UNREAD_MESSAGES_QUERY.md](LARAVEL_UNREAD_MESSAGES_QUERY.md)
+**Related Documentation:**
+- 📚 Complete Guide: [LARAVEL_UNREAD_MESSAGES_QUERY.md](LARAVEL_UNREAD_MESSAGES_QUERY.md)
+- 📊 Database Schema & Diagrams: [DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)
 
 ## Key Concept
 
